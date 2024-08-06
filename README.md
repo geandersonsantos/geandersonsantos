@@ -1,7 +1,4 @@
 ## Hi there 👋
 
-
-- 🌱 I’m currently learning JavaScript, PHP, MySQL AND WP
-- 💬 Ask me about all 😉
-- 📫 How to reach me: instagram @geanderson_n
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mayk Brito</h1>
 
